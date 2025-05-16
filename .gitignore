@@ -1,24 +1,16 @@
-  # Dependencies
-    node_modules/
+# Dependencies
+node_modules/
 
-    # Build output (if you have a build step)
-    dist/
+# Build output
+dist/
 
-    # Environment variables
-    .env
+# Environment
+.env
 
-    # Logs
-    *.log
-    npm-debug.log*
-    yarn-debug.log*
-    yarn-error.log*
+# Logs
+*.log
 
-    # OS and Editor files
-    .DS_Store
-    .vscode/
-    .idea/
-
-    #Local database
-    *.sqlite
-    *.dump
-    ```
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
